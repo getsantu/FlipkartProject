@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[---------------Test Started<br>]]>
+    </line>
+    <line>
+      <![CDATA[----------Test Started-------<br>]]>
+    </line>
+    <line>
+      <![CDATA[Chrome browser was choose and opened<br>]]>
+    </line>
+    <line>
+      <![CDATA[Opening Flipkart home page with 
+URL: http://www.flipkart.com<br>]]>
+    </line>
+    <line>
+      <![CDATA[Searched for Nike<br>]]>
+    </line>
+    <line>
+      <![CDATA[-----------------Test Ended<br>]]>
+    </line>
+    <line>
+      <![CDATA[---------Test Ended-----------<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="SampleTest" duration-ms="51867" started-at="2017-10-17T09:55:32Z" finished-at="2017-10-17T09:56:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51867" started-at="2017-10-17T09:55:32Z" finished-at="2017-10-17T09:56:24Z">
+      <class name="com.flipkart.tests.SampleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.flipkart.tests.SampleTest@6537cf78]" name="setup" is-config="true" duration-ms="10" started-at="2017-10-17T15:25:32Z" finished-at="2017-10-17T15:25:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[---------------Test Started<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchResultValidation()[pri:0, instance:com.flipkart.tests.SampleTest@6537cf78]" name="searchResultValidation" duration-ms="51847" started-at="2017-10-17T15:25:32Z" finished-at="2017-10-17T15:26:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[----------Test Started-------<br>]]>
+            </line>
+            <line>
+              <![CDATA[Chrome browser was choose and opened<br>]]>
+            </line>
+            <line>
+              <![CDATA[Opening Flipkart home page with 
+URL: http://www.flipkart.com<br>]]>
+            </line>
+            <line>
+              <![CDATA[Searched for Nike<br>]]>
+            </line>
+            <line>
+              <![CDATA[-----------------Test Ended<br>]]>
+            </line>
+            <line>
+              <![CDATA[---------Test Ended-----------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchResultValidation -->
+      </class> <!-- com.flipkart.tests.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- SampleTest -->
+</testng-results>

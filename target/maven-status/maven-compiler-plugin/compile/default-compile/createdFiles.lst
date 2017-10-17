@@ -1,0 +1,6 @@
+com\flipkart\pages\BasePage.class
+com\flipkart\pages\BasePage$1.class
+com\flipkart\logger\Logger.class
+com\flipkart\pages\SearchResultsPage.class
+com\flipkart\utils\PropertiesUtil.class
+com\flipkart\pages\HomePage.class
